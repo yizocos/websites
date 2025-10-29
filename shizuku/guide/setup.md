@@ -56,7 +56,16 @@ See [Android Developer](https://developer.android.com/studio/command-line/adb) f
 
 1. Download "SDK Platform Tools" provided by Google and extract it to any folder
 
-   * [Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
+   * [Windows](https://dl.google.com/andro
+
+https://github.com/user-attachments/assets/3e41f18c-0845-40cb-9e60-d9ac57edaa8a
+
+![2551](https://github.com/user-attachments/assets/350599a2-76b4-44ef-a45b-dedf974af383)
+
+
+https://github.com/user-attachments/assets/554976b6-5615-4623-b24b-c8a937cdc6f8
+
+id/repository/platform-tools-latest-windows.zip)
    * [Linux](https://dl.google.com/android/repository/platform-tools-latest-linux.zip)
    * [Mac](https://dl.google.com/android/repository/platform-tools-latest-darwin.zip)
 
@@ -160,6 +169,10 @@ Do not use the scan feature in MIUI's "Security" app, since it will disable "Dev
 #### Sony
 
 Don't click the dialog shows after connecting the USB, because it will change USB usage mode.
+
+
+https://github.com/user-attachments/assets/cefa6f17-8f5a-4b0d-828f-8c10cce55df1
+
 
 ### Start via root: cannot start on boot
 
